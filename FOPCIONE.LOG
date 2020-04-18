@@ -1,0 +1,36 @@
+Línea 19: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 36: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 53: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 70: la clase CommonDialog del control CMDialog1 no era una clase de control cargada.
+Línea 75: la clase SSFrame del control Panel no era una clase de control cargada.
+Línea 122: la clase SSFrame del control Panel no era una clase de control cargada.
+Línea 169: la clase SSFrame del control Panel no era una clase de control cargada.
+Línea 184: la clase SSCheck del control Arj no era una clase de control cargada.
+Línea 199: la clase SSFrame del control Panel no era una clase de control cargada.
+Línea 214: la clase SSCheck del control General no era una clase de control cargada.
+Línea 243: la clase SSCheck del control General no era una clase de control cargada.
+Línea 271: la clase SSCheck del control General no era una clase de control cargada.
+Línea 286: la clase SSCheck del control General no era una clase de control cargada.
+Línea 301: la clase SSCheck del control General no era una clase de control cargada.
+Línea 316: la clase SSCheck del control General no era una clase de control cargada.
+Línea 20: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 21: el nombre de la propiedad Caption de btn no es válido.
+Línea 31: el nombre de la propiedad Outline de btn no es válido.
+Línea 37: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 38: el nombre de la propiedad Caption de btn no es válido.
+Línea 48: el nombre de la propiedad Outline de btn no es válido.
+Línea 54: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 55: el nombre de la propiedad Caption de btn no es válido.
+Línea 65: el nombre de la propiedad Outline de btn no es válido.
+Línea 71: el nombre de la propiedad CancelError de CMDialog1 no es válido.
+Línea 76: el nombre de la propiedad Caption de Panel no es válido.
+Línea 123: el nombre de la propiedad Caption de Panel no es válido.
+Línea 170: el nombre de la propiedad Caption de Panel no es válido.
+Línea 185: el nombre de la propiedad Caption de Arj no es válido.
+Línea 200: el nombre de la propiedad Caption de Panel no es válido.
+Línea 215: el nombre de la propiedad Caption de General no es válido.
+Línea 244: el nombre de la propiedad Caption de General no es válido.
+Línea 272: el nombre de la propiedad Caption de General no es válido.
+Línea 287: el nombre de la propiedad Caption de General no es válido.
+Línea 302: el nombre de la propiedad Caption de General no es válido.
+Línea 317: el nombre de la propiedad Caption de General no es válido.

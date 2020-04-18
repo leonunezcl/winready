@@ -1,0 +1,27 @@
+Línea 19: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 38: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 57: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 76: la clase SSFrame del control Frame3D1 no era una clase de control cargada.
+Línea 90: la clase SSOption del control Option3D no era una clase de control cargada.
+Línea 105: la clase SSOption del control Option3D no era una clase de control cargada.
+Línea 120: la clase SSOption del control Option3D no era una clase de control cargada.
+Línea 135: la clase SSOption del control Option3D no era una clase de control cargada.
+Línea 150: la clase SSOption del control Option3D no era una clase de control cargada.
+Línea 20: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 21: el nombre de la propiedad Caption de btn no es válido.
+Línea 32: el nombre de la propiedad Outline de btn no es válido.
+Línea 33: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 39: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 40: el nombre de la propiedad Caption de btn no es válido.
+Línea 51: el nombre de la propiedad Outline de btn no es válido.
+Línea 52: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 58: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 59: el nombre de la propiedad Caption de btn no es válido.
+Línea 70: el nombre de la propiedad Outline de btn no es válido.
+Línea 71: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 77: el nombre de la propiedad Caption de Frame3D1 no es válido.
+Línea 91: el nombre de la propiedad Caption de Option3D no es válido.
+Línea 106: el nombre de la propiedad Caption de Option3D no es válido.
+Línea 121: el nombre de la propiedad Caption de Option3D no es válido.
+Línea 136: el nombre de la propiedad Caption de Option3D no es válido.
+Línea 151: el nombre de la propiedad Caption de Option3D no es válido.

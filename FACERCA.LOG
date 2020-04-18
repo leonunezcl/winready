@@ -1,0 +1,4 @@
+Línea 28: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 29: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 30: el nombre de la propiedad Caption de btn no es válido.
+Línea 39: el nombre de la propiedad Outline de btn no es válido.

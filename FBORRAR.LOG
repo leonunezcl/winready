@@ -1,0 +1,52 @@
+Línea 21: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 38: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 55: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 82: la clase MListBox del control List2 no era una clase de control cargada.
+Línea 22: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 23: el nombre de la propiedad Caption de btn no es válido.
+Línea 33: el nombre de la propiedad Outline de btn no es válido.
+Línea 39: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 40: el nombre de la propiedad Caption de btn no es válido.
+Línea 50: el nombre de la propiedad Outline de btn no es válido.
+Línea 56: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 57: el nombre de la propiedad Caption de btn no es válido.
+Línea 67: el nombre de la propiedad Outline de btn no es válido.
+Línea 83: el nombre de la propiedad AddItemHeight de List2 no es válido.
+Línea 84: el nombre de la propiedad Alignment de List2 no es válido.
+Línea 85: el nombre de la propiedad AllowFocusRect de List2 no es válido.
+Línea 86: el nombre de la propiedad AutoCheck de List2 no es válido.
+Línea 88: el nombre de la propiedad CheckColor de List2 no es válido.
+Línea 89: el nombre de la propiedad CheckStyle de List2 no es válido.
+Línea 90: el nombre de la propiedad DefPicture de List2 no es válido.
+Línea 91: el nombre de la propiedad DrawRegions de List2 no es válido.
+Línea 92: el nombre de la propiedad EnableVirtualMsgs de List2 no es válido.
+Línea 93: el nombre de la propiedad ExtendedSelect de List2 no es válido.
+Línea 94: el nombre de la propiedad FallColor de List2 no es válido.
+Línea 95: el nombre de la propiedad FindDirection de List2 no es válido.
+Línea 96: el nombre de la propiedad FindResult de List2 no es válido.
+Línea 103: el nombre de la propiedad GridColor de List2 no es válido.
+Línea 104: el nombre de la propiedad GridStyle de List2 no es válido.
+Línea 106: el nombre de la propiedad HiliteBackColor de List2 no es válido.
+Línea 107: el nombre de la propiedad HiliteForeColor de List2 no es válido.
+Línea 108: el nombre de la propiedad HorizontalGrids de List2 no es válido.
+Línea 109: el nombre de la propiedad ImageRegion de List2 no es válido.
+Línea 110: el nombre de la propiedad ImageType de List2 no es válido.
+Línea 111: el nombre de la propiedad ItemHeight de List2 no es válido.
+Línea 112: el nombre de la propiedad ItemWidth de List2 no es válido.
+Línea 114: el nombre de la propiedad ListBoxStyle de List2 no es válido.
+Línea 115: el nombre de la propiedad MaskingColor de List2 no es válido.
+Línea 116: el nombre de la propiedad MultiColumn de List2 no es válido.
+Línea 117: el nombre de la propiedad MultiSelect de List2 no es válido.
+Línea 118: el nombre de la propiedad NoIntegralHeight de List2 no es válido.
+Línea 119: el nombre de la propiedad OwnerCompare de List2 no es válido.
+Línea 120: el nombre de la propiedad OwnerDraw de List2 no es válido.
+Línea 121: el nombre de la propiedad RiseColor de List2 no es válido.
+Línea 122: el nombre de la propiedad SearchCompare de List2 no es válido.
+Línea 123: el nombre de la propiedad SelectMode de List2 no es válido.
+Línea 124: el nombre de la propiedad SortColumn de List2 no es válido.
+Línea 125: el nombre de la propiedad Sorted de List2 no es válido.
+Línea 126: el nombre de la propiedad SortOrder de List2 no es válido.
+Línea 127: el nombre de la propiedad StringCompare de List2 no es válido.
+Línea 130: el nombre de la propiedad Version de List2 no es válido.
+Línea 131: el nombre de la propiedad VerticalGrids de List2 no es válido.
+Línea 132: el nombre de la propiedad VirtualMsgZone de List2 no es válido.

@@ -1,0 +1,28 @@
+-----------------------------------------------------------------
+WinReady(R) para Windows   Version 1.0  10-12-1996
+Copyright 1996-1996 Ready Software. Todos los derechos reservados
+Ready software 
+Llene este formulario y envielo a la siguiente direcci¢n:
+Avda Benozzo Gozolli # 5227 
+Comuna de San Joaqu¡n Chile
+Fono 5520818
+Nota : para el TOTAL m£ltiplique el n£mero de computadores por el valor
+       del dolar a la fecha.
+----------------------------------------------------------------------- 
+
+NOMBRE EMPRESA:______________________________________________________
+
+DIRECCION:___________________________________________________________
+
+CIUDAD:_________________________________ COMUNA:_____________________
+
+TELEFONO #: (_____)______________  FAX #:  (____)________________
+
+EMAIL:  _____________________________________________________________  
+
+ENCARGADO DE SISTEMA O SIMILAR:______________________________________
+
+NUMERO DE COMPUTADORES: ____ VALOR DOLAR :_____ TOTAL : _____________
+
+
+

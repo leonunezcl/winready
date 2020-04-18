@@ -1,0 +1,7 @@
+Línea 19: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 36: la clase SSFrame del control Frame3D1 no era una clase de control cargada.
+Línea 20: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 21: el nombre de la propiedad Caption de btn no es válido.
+Línea 30: el nombre de la propiedad Outline de btn no es válido.
+Línea 31: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 37: el nombre de la propiedad Caption de Frame3D1 no es válido.

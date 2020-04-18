@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+WinReady(R) para Windows   Version 1.0  10-12-1996
+Copyright 1996-1996 Ready Software. Todos los derechos reservados
+Ready software 
+Avda Benozzo Gozolli # 5227 
+Comuna de San Joaqu¡n Chile
+Fono 5520818
+----------------------------------------------------------------- 
+Barra de WinReady(R):
+---------------------
+Dejando activada la barra de WinReady(R) Ud. podr  en cualquier momento
+realizar las acciones de comprimir, descomprimir, listar, etc.
+
+Desarrollo para personas discapacitadas: 
+----------------------------------------
+Facilitar las acciones de comprimir, descomprimir, listar, etc; de una
+forma fácil y sencilla.
+
+Asistentes para todas las operaciones:
+--------------------------------------
+La vida debe ser más fácil. Indique las instrucciones y deje que el asistente
+haga lo demás por Ud.
+
+Manejo para más compresores:
+---------------------------
+AIN,ARC,ARI,CODEC,CRUSH,DIET,DWC,GZIP,HA,HAP,HPACK,HIPER,JRC,LARC,LHE,
+LIMIT,LXEXE,RKIVE,SQZ,PKLITE,UC2,

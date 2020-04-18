@@ -1,0 +1,71 @@
+Línea 16: la clase SSPanel del control Panel3D no era una clase de control cargada.
+Línea 59: la clase SSPanel del control Panel3D no era una clase de control cargada.
+Línea 67: la clase SSPanel del control Panel3D no era una clase de control cargada.
+Línea 125: la clase SpinButton del control Spin1 no era una clase de control cargada.
+Línea 141: la clase ButtonBar del control ButtonBar2 no era una clase de control cargada.
+Línea 215: la clase StatusBar del control StatusBar1 no era una clase de control cargada.
+Línea 241: la clase ButtonBar del control ButtonBar1 no era una clase de control cargada.
+Línea 270: la clase SSCheck del control Restaurar no era una clase de control cargada.
+Línea 69: el nombre de la propiedad BevelInner de Panel3D no es válido.
+Línea 70: el nombre de la propiedad BevelOuter de Panel3D no es válido.
+Línea 127: el nombre de la propiedad BorderThickness de Spin1 no es válido.
+Línea 131: el nombre de la propiedad ShadeColor de Spin1 no es válido.
+Línea 132: el nombre de la propiedad ShadowBackColor de Spin1 no es válido.
+Línea 133: el nombre de la propiedad ShadowForeColor de Spin1 no es válido.
+Línea 134: el nombre de la propiedad ShadowThickness de Spin1 no es válido.
+Línea 135: el nombre de la propiedad SpinForeColor de Spin1 no es válido.
+Línea 136: el nombre de la propiedad TdThickness de Spin1 no es válido.
+Línea 143: el nombre de la propiedad ButtonColumns de ButtonBar2 no es válido.
+Línea 144: el nombre de la propiedad ButtonProperties de ButtonBar2 no es válido.
+Línea 145: el nombre de la propiedad ButtonRows de ButtonBar2 no es válido.
+Línea 153: el nombre de la propiedad HintBackColor de ButtonBar2 no es válido.
+Línea 154: el nombre de la propiedad HintDelay de ButtonBar2 no es válido.
+Línea 155: el nombre de la propiedad HintOffsetX de ButtonBar2 no es válido.
+Línea 156: el nombre de la propiedad HintOffsetY de ButtonBar2 no es válido.
+Línea 157: el nombre de la propiedad HintPosition de ButtonBar2 no es válido.
+Línea 158: el nombre de la propiedad hWndStatusBar de ButtonBar2 no es válido.
+Línea 159: el nombre de la propiedad IgnoreInvisibleButtons de ButtonBar2 no es válido.
+Línea 161: el nombre de la propiedad LeftMargin de ButtonBar2 no es válido.
+Línea 162: el nombre de la propiedad OutlineChildren de ButtonBar2 no es válido.
+Línea 163: el nombre de la propiedad ShowDisabledHints de ButtonBar2 no es válido.
+Línea 164: el nombre de la propiedad ShowDisabledMessages de ButtonBar2 no es válido.
+Línea 165: el nombre de la propiedad ShowHints de ButtonBar2 no es válido.
+Línea 166: el nombre de la propiedad ShowStatusMessage de ButtonBar2 no es válido.
+Línea 167: el nombre de la propiedad StatusField de ButtonBar2 no es válido.
+Línea 216: el nombre de la propiedad AdjustFieldHeight de StatusBar1 no es válido.
+Línea 218: el nombre de la propiedad AutoToggle de StatusBar1 no es válido.
+Línea 219: el nombre de la propiedad CapsLockOffText de StatusBar1 no es válido.
+Línea 220: el nombre de la propiedad CapsLockOnText de StatusBar1 no es válido.
+Línea 221: el nombre de la propiedad ExpandField de StatusBar1 no es válido.
+Línea 222: el nombre de la propiedad FieldProperties de StatusBar1 no es válido.
+Línea 223: el nombre de la propiedad FloodColor de StatusBar1 no es válido.
+Línea 224: el nombre de la propiedad FloodField de StatusBar1 no es válido.
+Línea 225: el nombre de la propiedad FloodInvertText de StatusBar1 no es válido.
+Línea 226: el nombre de la propiedad FloodPercent de StatusBar1 no es válido.
+Línea 227: el nombre de la propiedad FloodShowPct de StatusBar1 no es válido.
+Línea 228: el nombre de la propiedad Font3D de StatusBar1 no es válido.
+Línea 231: el nombre de la propiedad LeftMargin de StatusBar1 no es válido.
+Línea 232: el nombre de la propiedad MenuTagsField de StatusBar1 no es válido.
+Línea 233: el nombre de la propiedad NumLockOffText de StatusBar1 no es válido.
+Línea 234: el nombre de la propiedad NumLockOnText de StatusBar1 no es válido.
+Línea 235: el nombre de la propiedad RightMargin de StatusBar1 no es válido.
+Línea 236: el nombre de la propiedad ScrollLockOffText de StatusBar1 no es válido.
+Línea 237: el nombre de la propiedad ScrollLockOnText de StatusBar1 no es válido.
+Línea 243: el nombre de la propiedad ButtonColumns de ButtonBar1 no es válido.
+Línea 244: el nombre de la propiedad ButtonProperties de ButtonBar1 no es válido.
+Línea 245: el nombre de la propiedad ButtonRows de ButtonBar1 no es válido.
+Línea 253: el nombre de la propiedad HintBackColor de ButtonBar1 no es válido.
+Línea 254: el nombre de la propiedad HintDelay de ButtonBar1 no es válido.
+Línea 255: el nombre de la propiedad HintOffsetX de ButtonBar1 no es válido.
+Línea 256: el nombre de la propiedad HintOffsetY de ButtonBar1 no es válido.
+Línea 257: el nombre de la propiedad HintPosition de ButtonBar1 no es válido.
+Línea 258: el nombre de la propiedad hWndStatusBar de ButtonBar1 no es válido.
+Línea 259: el nombre de la propiedad IgnoreInvisibleButtons de ButtonBar1 no es válido.
+Línea 261: el nombre de la propiedad LeftMargin de ButtonBar1 no es válido.
+Línea 262: el nombre de la propiedad OutlineChildren de ButtonBar1 no es válido.
+Línea 263: el nombre de la propiedad ShowDisabledHints de ButtonBar1 no es válido.
+Línea 264: el nombre de la propiedad ShowDisabledMessages de ButtonBar1 no es válido.
+Línea 265: el nombre de la propiedad ShowHints de ButtonBar1 no es válido.
+Línea 266: el nombre de la propiedad ShowStatusMessage de ButtonBar1 no es válido.
+Línea 267: el nombre de la propiedad StatusField de ButtonBar1 no es válido.
+Línea 271: el nombre de la propiedad Caption de Restaurar no es válido.

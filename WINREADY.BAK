@@ -1,0 +1,976 @@
+{\rtf1\ansi
+{\fonttbl{\f0\fswiss System;}{\f1\fmodern Fixedsys;}{\f2\fmodern Terminal;}{\f3\fswiss MS Sans Serif;}{\f4\fmodern Courier;}{\f5\froman MS Serif;}{\f6\fswiss Small Fonts;}{\f7\froman Roman;}{\f8\fscript Script;}{\f9\fmodern Modern;}{\f10\fswiss Arial;}{\f11\fmodern Courier New;}{\f12\froman Times New Roman;}{\f13\fnil Wingdings;}{\f14\froman Symbol;}{\f15\fmodern MS LineDraw;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue128;\red0\green128\blue0;\red0\green128\blue128;\red128\green0\blue0;\red128\green0\blue128;\red128\green128\blue0;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue255;\red0\green255\blue0;\red0\green255\blue255;\red255\green0\blue0;\red255\green0\blue255;\red255\green255\blue0;\red255\green255\blue255;}
+#{\footnote # INDICE}
+\pard\plain{\cf1\f3\fs48\li101\ql\ri101\sa20\sb20 Indice de materias de WinReady.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para obtener ayuda sobre alg\'FAn item haga clic en \'E9l. Para aprender a usar la ayuda presione F1.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb \'BFQu\'E9 es WinReady?}{\v * QUE_ES_WINREADY>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Requerimientos para trabajar con WinReady.}{\v * REQUERIMIENTOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb C\'F3mo trabajar con el teclado y el mouse.}{\v * COMO_TRABAJAR_TECLADO_Y_MOUSE>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Reglas de DOS para los nombres de archivos y directorios.}{\v * REGLAS_DOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Men\'FA archivo.}{\v * MENU_ARCHIVO>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Men\'FA edici\'F3n.}{\v * MENU_EDICION>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Men\'FA opciones.}{\v * MENU_OPCIONES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Men\'FA utilitarios.}{\v * MENU_UTILITARIOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Marcas registradas.}{\v * MARCAS_REGISTRADAS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Com\'F3 registrar su copia de WinReady.}{\v * COMO_REGISTRARSE>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Pruebas realizadas con diferentes tipos de archivos.}{\v * PRUEBAS_REALIZADAS>Main}}\par
+\page
+#{\footnote # MENU_ARCHIVO}
++{\footnote + 00001:007}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Men\'FA archivo.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 En este men\'FA Ud. encontrar\'E1 las siguientes opciones:}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimir}{\v * MENU_ARCHIVO_COMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Descomprimir}{\v * MENU_ARCHIVO_DESCOMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Convertir}{\v * MENU_ARCHIVO_CONVERTIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Crear Exe}{\v * MENU_ARCHIVO_CREAR_EXE>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Listar\tab }{\v * MENU_ARCHIVO_LISTAR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Mover}{\v * MENU_ARCHIVO_MOVER>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Reparar}{\v * MENU_ARCHIVO_REPARAR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Verificar}{\v * MENU_ARCHIVO_VERIFICAR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Borrar}{\v * MENU_ARCHIVO_BORRAR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Editar}{\v * MENU_ARCHIVO_EDITAR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Imprimir}{\v * MENU_ARCHIVO_IMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Informaci\'F3n}{\v * MENU_ARCHIVO_INFORMACION>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Ejecuci\'F3n directa}{\v * MENU_ARCHIVO_EJECUCION_DIRECTA>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb M\'F3dulo de instalaci\'F3n}{\v * MENU_ARCHIVO_MODULO>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\ul Teclas r\'E1pidas}{\v * MENU_ARCHIVO_TECLAS_RAPIDAS}}\par
+\page
+#{\footnote # MENU_ARCHIVO_COMPRIMIR}
+${\footnote $ Compresi\'F3n de archivos}
++{\footnote + 00007:003}
+K{\footnote K Comenzando a comprimir datos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Comprimir.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para comprimir archivos haga lo siguiente:\line \line 1) Seleccione el directorio donde se encuentran los archivos que desea comprimir.\line 2) Seleccione el \'F3 los archivos a comprimir.\line 3) En la lista desplegable Usar seleccione el compresor a su elecci\'F3n.\line 4) Seleccione en el men\'FA Archivo la opci\'F3n Comprimir.\line 5) En el cuadro de texto Hacia aparecer\'E1 el nombre del directorio que Ud. ha elegido como un nombre de archivo y este ser\'E1 comprimido al directorio que Ud ha elegido. Si desea digitar otro nombre, cambiar de directorio o unidad siga las reglas de DOS.\line 6) Haga clic en el bot\'F3n Aceptar.\line \line Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos}{\v * METODOS_GENERALES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimiendo a varios disquetes.}{\v * COMPRIMIR_OPCIONES_MULTIPLES_DISCOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Usar opciones predefinidas.}{\v * COMPRIMIR_USAR_OP_PREDEFINIDAS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Posibles destinos.}{\v * COMPRIMIR_POSIBLES_DESTINOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Opciones de compresi\'F3n.}{\v * COMPRIMIR_OPCIONES>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OP_PAK_ORDENAR_POR}
++{\footnote + 00026:015}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Ordenar por.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Pak}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nombre}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena los archivos de acuerdo a su nombre.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Extensi\'F3n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena los archivos de acuerdo a su extensi\'F3n.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Hora}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena los archivos de acuerdo a la hora en la que hayan sido creados.\tab }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena los archivos de acuerdo a su tama\'F1o en bytes.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 No ordenar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab La compresi\'F3n se realiza en el orden que los archivos est\'E1n grabados en el directorio seleccionado.}\par
+\page
+#{\footnote # COMPRIMIR_USAR_OP_PREDEFINIDAS}
++{\footnote + 00008:006}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Opciones predefinidas.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab La siguiente es una lista de cada compresor con la opci\'F3n predefinida por WinReady.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Arj}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -jm : M\'E1xima compresi\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -js  : No comprimir archivos ya comprimidos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20            -x*.arj : Excluir archivos comprimidos con extensi\'F3n ARJ. (Arj)}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20             -x*.lzh: Excluir archivos comprimidos con extensi\'F3n LZH  (Lha)}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20           -x*.pak: Excluir archivos comprimidos con extensi\'F3n LZH  (Pak)}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20             -x*.zip: Excluir archivos comprimidos con extensi\'F3n ZIP (Pkzip)}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20             -x*.rar: Excluir archivos comprimidos con extensi\'F3n Rar  (Rar)\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -va : Detectar el espacio disponible si la compresi\'F3n esta siendo realizada a una unidad de disquetes.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Lha}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -z2 :Excluir archivos con comprimidos con extensi\'F3n: ARC, LZH, LZS, PAK, ZIP y ZOO. }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20              -zarj : Excluir archivos comprimidos con extensi\'F3n ARJ.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20              -zrar : Excluir archivos comprimidos con extensi\'F3n RAR.\tab }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pak}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20              /sec : Chequear que el ambiente donde se realiza la compresi\'F3n sea seguro.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab    /p: Comprimir todo (archivos y subdirectorios si se incluyen).}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pkzip}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -ex : M\'E1xima compresi\'F3n.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Rar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20  \tab    -s : Comprimir usando un m\'E9todo especial de compresi\'F3n. Esta opci\'F3n da ventaja cuando se comprimen varios archivos de peque\'F1o tama\'F1o.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab  m5 : M\'E1xima compresi\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab -va  : Detectar espacio en unidad destino. Util cuando se comprime a unidades de disquete.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20               -ehs  : Excluir archivos ocultos(IO.SYS, MSDOS.SYS,etc) y de sistema.}\par
+\page
+#{\footnote # COMPRIMIR_POSIBLES_DESTINOS}
+${\footnote $ Seleccionando el destino de los archivos}
++{\footnote + 00008:007}
+K{\footnote K Posibles destinos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Posibles destinos.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n le permite elegir el directorio hacia desea destinar el archivo. Esto permite ver una lista desplegable con todos los directorios y subdirectorios donde esta instalado WinReady.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimir.}{\v * MENU_ARCHIVO_COMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Descomprimir.}{\v * MENU_ARCHIVO_DESCOMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Ejecuci\'F3n directa.}{\v * MENU_ARCHIVO_EJECUCION_DIRECTA>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Imprimir}{\v * MENU_ARCHIVO_IMPRIMIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Mover.}{\v * MENU_ARCHIVO_MOVER>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Lista de directorios.}{\v * MENU_OPCIONES_LISTA_DIRECTORIOS>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES}
++{\footnote + 00008:008}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Opciones de compresi\'F3n.}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Generales}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Archivos ocultos, sistema y lectura.}{\v * COMPRIMIR_OPCIONES_ARCHIVOS_OCULTOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Crear archivo exe.}{\v * COMPRIMIR_OPCIONES_CREAR_EXE>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comentar archivo .}{\v * COMPRIMIR_OPCIONES_COMENTAR_ARCHIVO>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Contrase\'F1a. }{\v * COMPRIMIR_OPCIONES_CONTRASENA>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Incluir subdirectorios.}{\v * COMPRIMIR_OPCIONES_INCLUIR_SUB>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb M\'FAltiples disquetes.}{\v * COMPRIMIR_OPCIONES_MULTIPLES_DISCOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Omitir path de origen.}{\v * COMPRIMIR_OPCIONES_OMITIR>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Arj}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Verificar compresi\'F3n.}{\v * COMPRIMIR_OP_ARJ_VERIFICAR>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pak}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Ordenar por.}{\v * COMPRIMIR_OP_PAK_ORDENAR_POR>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pkzip}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Tipo de compresi\'F3n}{\v * COMPRIMIR_OP_PKZIP_TIPO_COMPRESION>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_ARCHIVOS_OCULTOS}
+${\footnote $ Comprimiendo archivos ocultos}
++{\footnote + 00026:003}
+K{\footnote K Archivos ocultos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Archivos ocultos, sistema y lectura.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n incluye en la compresi\'F3n todos aquellos archivos que tengan estos atributos. Para saber cuales archivos tienen estos atributos seleccione los archivos y en el men\'FA archivo elija informaci\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Los siguientes son los atributos que se pueden presentar:}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab N: Normales.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab O: Ocultos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab S: Sistema.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab L: Lectura.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Pueden aparecer combinaciones de estos cuando se realize la informaci\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Informaci\'F3n}{\v * MENU_ARCHIVO_INFORMACION>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_CREAR_EXE}
+${\footnote $ Descompresi\'F3n sin usar el compresor de origen}
++{\footnote + 00026:004}
+K{\footnote K Creando archivos exe;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Crear archivo exe.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Rar, Zip2exe}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n brinda la posibilidad de crear un archivo comprimido el cual para descomprimirlo no se necesita el compresor de origen.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Cuando lo descomprima puede opcionalmente digitar el path donde desea que se descompriman sus archivos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ejemplo: Si Ud ha creado el archivo en la unidad A: llamado "SISTEMA.EXE"  y desea que se descomprima en la unidad C: entonces Ud. puede digitar lo siguiente desde el drive A:}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 a:\\>sistema c:\\sistema}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_COMENTAR_ARCHIVO}
+${\footnote $ Colocar una identificaci\'F3n al programa}
++{\footnote + 00026:005}
+K{\footnote K Creando comentarios;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Comentar archivo.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Pkzip, Rar.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n permite identificar su archivo con una descripci\'F3n alusiva a lo que hace el programa. Esta identificaci\'F3n puede ser un logo, un mensaje, etc.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Pasos para agregar un comentario.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Cree un archivo de texto con el texto a desplegar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Grabe el archivo en su computador.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: La longitud en bytes del archivo de texto a usar como comentario depende del compresor. Trate que sus comentarios no excedan los 2048 Kb de longitud.}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_CONTRASENA}
+${\footnote $ Colocar una contrase\'F1a al archivo}
++{\footnote + 00014:011}
+K{\footnote K Comprimir con contrase\'F1a;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Contrase\'F1a.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n brinda la posibilidad de agregar a sus archivos una "Password". Si desea descomprimir el archivo digite en el cuadro de texto Contrase\'F1a la contrase\'F1a asignada a ese archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si una persona ajena desear\'E1 descomprimir ese archivo no hay forma alguna de poder descomprimirlo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nota: Anote en un lugar seguro el nombre del archivo y la contrase\'F1a asignada a \'E9l.}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_INCLUIR_SUB}
+${\footnote $ Agregando subdirectorios al archivo comprimido}
++{\footnote + 00026:007}
+K{\footnote K Incluir subdirectorios;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Incluir subdirectorios.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n permite incluir todos los subdirectorios y archivos que tenga el directorio seleccionado. Si este es el directorio ra\'EDz C:\\>, entonces se estar\'E1 comprimiendo todo el disco duro.}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_MULTIPLES_DISCOS}
+${\footnote $ Comprimiendo archivos a varios discos}
++{\footnote + 00008:005}
+K{\footnote K Compresi\'F3n por vol\'FAmenes;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 M\'FAltiples disquetes.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite comprimir archivos que ocupar\'E1n m\'E1s de un disquete a varios disquettes, desde 1 a N disquetes.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n:}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Opciones predefinidas}{\v * COMPRIMIR_USAR_OP_PREDEFINIDAS>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OPCIONES_OMITIR}
+${\footnote $ Borrar el path de origen al archivo comprimido}
++{\footnote + 00026:009}
+K{\footnote K Omitir path;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Omitir path de origen.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite borrar el path de origen de los archivos que est\'E1n siendo comprimidos. Esta opci\'F3n es \'FAtil cuando Ud. quiera descomprimir los archivos y que estos no muestren desde donde fueron comprimidos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Tenga cuidado con esta opci\'F3n si tambi\'E9n marca la casilla de "Incluir subdirectorios" y desea restaurar los archivos a sus lugares de origen.}\par
+\page
+#{\footnote # COMPRIMIR_OP_ARJ_VERIFICAR}
+${\footnote $ Verificando el \'E9xito de la compresi\'F3n}
++{\footnote + 00026:012}
+K{\footnote K Verificar compresi\'F3n;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Verificar compresi\'F3n.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite una vez hecha la compresi\'F3n, verificar el archivo. Al agregar esta opci\'F3n el tiempo de compresi\'F3n aumenta. }\par
+\page
+#{\footnote # REQUERIMIENTOS}
+${\footnote $ Requerimientos para trabajar con Ready}
++{\footnote + 00001:004}
+K{\footnote K Requerimientos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Requerimientos}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para trabajar con WinReady Ud. debe :}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Tener cualquiera de los siguientes archivos en su computador:}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Robert Jung(Arj Software) }\par
+\pard\plain{\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab Comprimir : arj.exe}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordenar archivos : arjsort.com}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Convertir : rearj.exe, rearj.cfg. }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Haruyasu Yoshizaki}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Comprimir : lha.exe}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 NoGate Consulting}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Comprimir : Pak.exe}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pkware, Inc}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Comprimir : Pkzip.exe}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Descomprimir : Pkunzip.exe}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Crear exe : zip2exe.exe}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Reparar : pkzipfix.exe}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Eugene Roshel}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Comprimir : rar.exe}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Convertir : rcvt.exe, rcvt.cfg }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Si no sabe el directorio donde estos archivos se encuentran, en el men\'FA Opciones elija "Configuraci\'F3n", despu\'E9s haga clic en el bot\'F3n Buscar. WinReady busca estos archivos por todo el disco duro de su computador.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Configuraci\'F3n}{\v * MENU_OPCIONES_CONFIGURACION>Main}}\par
+\page
+#{\footnote # COMPRIMIR_OP_PKZIP_TIPO_COMPRESION}
+${\footnote $ Seleccionar m\'E9todo de compresi\'F3n}
++{\footnote + 00026:018}
+K{\footnote K M\'E9todo de compresi\'F3n;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Tipo de compresi\'F3n.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Pkzip}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Solo juntar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Los archivos son colocados uno al lado del otro. No hay compresi\'F3n.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Super r\'E1pida}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Compresi\'F3n m\'EDnima, tiempo m\'EDnimo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 R\'E1pida}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Compresi\'F3n un poco m\'E1s amplia.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Normal}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Es el m\'E9todo de compresi\'F3n por defecto.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 M\'E1xima}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab M\'E1s compresi\'F3n, m\'E1s tiempo.}\par
+\page
+#{\footnote # MENU_ARCHIVO_DESCOMPRIMIR}
+${\footnote $ Descomprimiendo archivos}
++{\footnote + 00007:004}
+K{\footnote K Descomprimiendo el archivo comprimido;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Descomprimir.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkunzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para descomprimir archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a descomprimir.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Seleccione en el men\'FA Archivo la opci\'F3n Descomprimir.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Seleccione los archivos que va a descomprimir, si desea descomprimir todos los archivos haga clic en la casilla "Todos los archivos".}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: Si Ud. quiere descomprimir un archivo que fue comprimido con Contrase\'F1a, digite en el cuadro de texto "Contrase\'F1a" la contrase\'F1a asignada. Recuerde la contrase\'F1a si ha comprimido archivos con ella, el no recordarla significa no poder descomprimir de ninguna forma el archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimiendo con contrase\'F1a.}{\v * COMPRIMIR_OPCIONES_CONTRASENA>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Mantener estructura.}{\v * DESCOMPRIMIR_MANTENER_ESTRUCTURA>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Mensajes de descompresi\'F3n por vol\'FAmenes.}{\v * MENSAJES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos}{\v * MENU_EDICION>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Sobreescribir archivos.}{\v * DESCOMPRIMIR_SOBREESCRIBIR_ARCHIVOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Posibles destinos.}{\v * COMPRIMIR_POSIBLES_DESTINOS>Main}}\par
+\page
+#{\footnote # DESCOMPRIMIR_MANTENER_ESTRUCTURA}
+${\footnote $ Descomprimir archivos a sus origenes}
++{\footnote + 00014:012}
+K{\footnote K Descomprimiendo archivos a sus lugares de origenes;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Mantener estructura.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite descomprimir los archivos a sus lugares de or\'EDgenes. Un ejemplo de esto es el directorio WINDOWS, el cual para que funcione necesita que ciertos archivos est\'E1n donde fueron grabados al momento de instalarse.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab  Para ello digite en el cuadro de texto Hacia lo siguiente C:\\, despu\'E9s haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Este ejemplo es v\'E1lido para todos aquellos programas que necesitan de ciertos archivos en directorios especificos.}\par
+\page
+#{\footnote # DESCOMPRIMIR_SOBREESCRIBIR_ARCHIVOS}
+${\footnote $ Sobreescribir archivos}
++{\footnote + 00014:015}
+K{\footnote K Sobreescribir archivos si estos ya existen;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Sobreescribir archivos.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Regraba los archivos si estos existen en el directorio donde se van a descomprimir. Tenga en cuenta que si selecciona esta opci\'F3n la informaci\'F3n se perder\'E1 en el archivo y ser\'E1 sustituida por la del archivo que se esta descomprimiendo.}\par
+\page
+#{\footnote # MENU_ARCHIVO_CONVERTIR}
+${\footnote $ Convertir archivos}
++{\footnote + 00007:005}
+K{\footnote K Convirtiendo archivos de un formato a otro;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Convertir archivos.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Rcvt, Rearj}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para convertir archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a convertir. La extensi\'F3n debe ser : arj, lzh , pak, rar  y zip.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo seleccione Convertir.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Seleccione el conversor Rcvt o Rearj.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Rcvt}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Convierte a formato RAR los siguientes tipos de archivos: arj, lzh, rar y zip.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Rearj}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Convierte a formato ARJ los siguientes tipos de archivos:  lzh, pak, rar y zip.\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 4) Haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Configuraci\'F3n}{\v * MENU_OPCIONES_CONFIGURACION>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Men\'FA utilitarios}{\v * MENU_UTILITARIOS>Main}}\par
+\page
+#{\footnote # MENU_ARCHIVO_CREAR_EXE}
+${\footnote $ Crear archivos ejecutables}
++{\footnote + 00007:006}
+K{\footnote K Descomprimiendo archivos sin el compresor de origen;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Crear exe.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Rar, Zip2exe}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Convierte un archivo comprimido a un archivo con extensi\'F3n exe. Esta opci\'F3n es \'FAtil cuando desea descomprimir archivos sin usar el compresor de origen.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para convertir un archivo comprimido a formato exe haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo elija Crear Exe.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: Si esta convirtiendo archivos comprimidos con Pkzip y est\'E1n por m\'FAltiples vol\'FAmenes esta opci\'F3n causa un error.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimir : Crear archivo exe}{\v * COMPRIMIR_OPCIONES_CREAR_EXE>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb M\'FAltiples vol\'FAmenes}{\v * COMPRIMIR_OPCIONES_MULTIPLES_DISCOS>Main}}\par
+\page
+#{\footnote # MENU_ARCHIVO_LISTAR}
+${\footnote $ Listar archivos}
++{\footnote + 00007:007}
+K{\footnote K Viendo el archivo comprimido;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Listar.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Informa de los archivos, tama\'F1o original, tama\'F1o comprimido, radio de compresi\'F3n, fecha y hora del archivo que se encuentran en el archivo comprimido elejido.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para listar siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a listar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo elija Listar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nombre archivo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El nombre del archivo que esta comprimido.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o original}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El tama\'F1o original del archivo al momento de comprimirse.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o comprimido}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El tama\'F1o del archivo al ser comprimido.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Radio de compresi\'F3n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Cuanto del 100% de la longitud del archivo se ha logrado comprimir.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Fecha y hora}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab La fecha y hora de creaci\'F3n del archivo.}\par
+\page
+#{\footnote # MENU_ARCHIVO_MOVER}
+${\footnote $ Mover archivos}
++{\footnote + 00007:008}
+K{\footnote K Mover del lugar de origen los archivos a comprimir;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Mover.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n es parecida casi en su totalidad a la opci\'F3n Comprimir con la diferencia que al momento de terminar la compresi\'F3n los archivos son borrados del lugar desde donde se realizo la compresi\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para mover archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el directorio donde est\'E1n los archivos que desea mover.\line 2) Seleccione los archivos a mover.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) En la lista desplegable Usar seleccione el compresor a su elecci\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 4) En el men\'FA archivo haga clic en la opci\'F3n Mover.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 5) En el cuadro de texto Hacia aparecer\'E1 el nombre del directorio que Ud. ha elegido como un nombre de archivo y este ser\'E1 comprimido al directorio que Ud ha elegido. Si desea digitar otro nombre, cambiar de directorio o unidad siga las reglas de DOS.\line 6) Haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos}{\v * METODOS_GENERALES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimiendo a varios discos.}{\v * COMPRIMIR_OPCIONES_MULTIPLES_DISCOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Usar opciones predefinidas.}{\v * COMPRIMIR_USAR_OP_PREDEFINIDAS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Posibles destinos.}{\v * COMPRIMIR_POSIBLES_DESTINOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Opciones de compresi\'F3n.}{\v * COMPRIMIR_USAR_OP_PREDEFINIDAS>Main}}\par
+\page
+#{\footnote # MENU_ARCHIVO_REPARAR}
+${\footnote $ Reparar archivos}
++{\footnote + 00007:009}
+K{\footnote K Reparando archivos defectuosos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Reparar archivos.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Pkzipfix, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Repara archivos que han sufrido da\'F1os ya sea por el mal estado de disquetes o de otras circunstancias}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para reparar archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a reparar. Este debe tener extensi\'F3n RAR \'F3 ZIP.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo haga clic en la opci\'F3n Reparar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: El \'E9xito de la reparaci\'F3n de archivos depende de muchos factores. Trate por lo general de mantener sus disquetes en lugares seguros fuera del polvo, fuentes magn\'E9ticas, evite mojarlos, exponerlos al sol, etc. No se pueden reparar archivos si estos estan comprimidos en varios disquetes (Vol\'FAmenes).}\par
+\page
+#{\footnote # MENU_ARCHIVO_VERIFICAR}
+${\footnote $ Verificar archivos}
++{\footnote + 00007:010}
+K{\footnote K Verificando la integridad de los archivos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Verificar.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite verificar la integridad del archivo comprimido. Esta opci\'F3n sirve para saber si existen por ejemplo error de datos en disquetes, sectores defectuosos, etc.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para verificar archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a verificar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo haga clic en la opci\'F3n Verificar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: Trate de mantener sus discos en buen estado, recuerde que cualquier maltrato puede significar la perdida de la informaci\'F3n.}\par
+\page
+#{\footnote # MENU_ARCHIVO_BORRAR}
+${\footnote $ Borrar archivos}
++{\footnote + 00007:011}
+K{\footnote K Borrando archivos del archivo comprimido;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Borrar}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Rar}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Borra archivos que se encuentran en el archivo comprimido.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para borrar archivos haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo haga clic en la opci\'F3n Borrar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Seleccione los archivos a Borrar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 4) Haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: No se pueden borrar archivos si estos estan comprimidos en varios disquetes.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n:}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Comprimiendo a varios disquetes.}{\v * COMPRIMIR_OPCIONES_MULTIPLES_DISCOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos.}{\v * MENU_EDICION>Main}}\par
+\page
+#{\footnote # MENU_ARCHIVO_EDITAR}
+${\footnote $ Editar archivos}
++{\footnote + 00007:012}
+K{\footnote K Edici\'F3n de archivos de texto;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Editar.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Edit, Notepad \'F3 otro editor.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Edita archivos de texto. Esta opci\'F3n tambi\'E9n la puede usar para crear o editar comentarios.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para editar archivos siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo a editar. }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo elija Editar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Block de notas}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si el archivo a editar no es muy extenso use el block de notas.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Edit (Ms-Dos)}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si el archivo a editar es extenso use el block de notas.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Otro editor}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si desea usar otro editor digite el path del archivo.}\par
+\page
+#{\footnote # MENU_ARCHIVO_INFORMACION}
+${\footnote $ Informaci\'F3n de archivos}
++{\footnote + 00007:014}
+K{\footnote K Descripci\'F3n de los archivos en el directorio actual;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Informaci\'F3n.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Informa de los detalles de los archivos seleccionados.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para saber la informaci\'F3n siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione los archivos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo haga clic en la opci\'F3n Informaci\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nombre archivo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El nombre del archivo elejido.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Directorio}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El directorio donde se encuentra el archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tipo de archivo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El tipo puede ser el siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab N: Normal.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab L: Lectura.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab O: Oculto.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab S: Sistema.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab La longitud en bytes del archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Fecha y hora}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab La fecha y hora de creaci\'F3n del archivo.}\par
+\page
+#{\footnote # MENU_ARCHIVO_EJECUCION_DIRECTA}
+${\footnote $ Ejecutando programas}
++{\footnote + 00007:015}
+K{\footnote K Ejecuci\'F3n directa de archivos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Ejecuci\'F3n directa.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkzip, Pkunzip, Pkzipfix, Zip2exe, Rar, Rcvt, Rearj, Arjsort o otro.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n brinda la posibilidad de ejecutar cualquier programa. Opcionalmente se han agregado los compresores y los posibles destinos. Si es un usuario avanzado en el manejo de este tipo de programas ejecutelos a su gusto.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para ejecutar programas siga los siguientes pasos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Haga clic en el men\'FA Archivo y elija la opci\'F3n Ejecuci\'F3n directa.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Usar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Una lista desplegable con todos los programas configurados. Al hacer clic se deplegar\'E1 en el cuadro de texto Ejecutar el path del archivo m\'E1s el nombre del archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Posibles destinos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si en el men\'FA Configuraci\'F3n la opci\'F3n Lista de directorios esta activada al hacer clic en esta opci\'F3n se desplegar\'E1 una lista con todos los directorios y subdirectorios existentes donde Ready esta instalado.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Ejecutar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Digite el path del programa m\'E1s el programa a ejecutar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ejemplo con un archivo cualquiera :}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab  C:\\DOS\\QBASIC.EXE}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ejemplo con un compresor:}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab C:\\ARJ\\ARJ.EXE A A:JUEGOS -JM -VA -JE1 -JT -R  C:\\JUEGOS }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Haga clic en el bot\'F3n Aceptar.}\par
+\page
+#{\footnote # MENU_ARCHIVO_MODULO}
+${\footnote $ Creando m\'F3dulos de intalaci\'F3n}
++{\footnote + 00007:016}
+K{\footnote K Distribuyendo sus aplicaciones de una manera profesional.;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 M\'F3dulo de instalaci\'F3n.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Esta opci\'F3n esta disponible solo en la versi\'F3n registrada. Si Ud. es un creador de programas y quiere distribuirlos de manera profesional este permite por ejemplo:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Instalaci\'F3n desde m\'FAltiples discos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Selecci\'F3n del directorio a instalar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Detecta el espacio necesario para los archivos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 4) Desplegar el logo de su empresa.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb C\'F3mo registrarse}{\v * COMO_REGISTRARSE>Main}}\par
+\page
+#{\footnote # MENU_EDICION}
++{\footnote + 00001:008}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Men\'FA edici\'F3n.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 En este men\'FA Ud. encontrar\'E1 las siguientes opciones:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Agregar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20    \tab Suma un archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Quitar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Quita un archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Agregar todos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Suma todos los archivos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Quitar todos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Quita todos los archivos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Selecci\'F3n m\'FAltiple}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite seleccionar archivos que se encuentran en diferentes directorios.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n\tab }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb M\'E9todos generales de selecci\'F3n de archivos.}{\v * METODOS_GENERALES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n m\'FAltiple}{\v * MENU_EDICION_SELECCION_MULTIPLE>Main}}\par
+\page
+#{\footnote # MENU_OPCIONES_CONFIGURACION}
+${\footnote $ Configuraci\'F3n de Ready}
++{\footnote + 00003:022}
+K{\footnote K Configurando los archivos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Configuraci\'F3n.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite indicar a Win Ready donde est\'E1n los programas para que este funcione correctamente.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para realizar esto haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) En el men\'FA Opciones haga clic en la opci\'F3n Configuraci\'F3n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Si no sabe donde se encuentran los programas haga clic en el bot\'F3n Buscar. Win Ready busca por los archivos que necesita en todos los directorios y subdirectorios de su disco duro.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Requerimientos para trabajar con Win Ready.}{\v * REQUERIMIENTOS>Main}}\par
+\page
+#{\footnote # MENU_OPCIONES}
++{\footnote + 00001:009}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Men\'FA opciones.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 En este men\'FA Ud. encontrar\'E1 las siguientes opciones:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Configuraci\'F3n}{\v * MENU_OPCIONES_CONFIGURACION>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Lista de directorios}{\v * MENU_OPCIONES_LISTA_DIRECTORIOS>Main}}\par
+\page
+#{\footnote # MENU_OPCIONES_LISTA_DIRECTORIOS}
++{\footnote + 00013:011}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Lista de directorios.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Comprimir, Descomprimir, Mover, Imprimir, Ejecuci\'F3n Directa}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Busca todos los directorios y subdirectorios que existen en la unidad donde WinReady est\'E1 instalado. Esto permite al usuario ver depu\'E9s una lista desplegable con todos los directorios y subdirectorios y seleccionar el directorio hacia donde desea dirigir el archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para realizar esto haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) En el men\'FA Opciones haga clic en la opci\'F3n Lista de directorios.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) Deje que WinReady busque por todos los directorios y subdirectorios en su disco duro.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Aparecer\'E1 despu\'E9s una lista con todos los directorios y subdirectorios encontrados. Para ocupar esta opci\'F3n haga clic en el bot\'F3n Aceptar de lo contrario haga clic en el bot\'F3n Cancelar.}\par
+\page
+#{\footnote # MARCAS_REGISTRADAS}
++{\footnote + 00001:011}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Marcas registradas.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Arj, Arjsort, Rearj es marca registrada de Arj Software.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Lha es marca registrada de Haruyasu Yoshizaki.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Pak es marca registrada de NoGate Consulting.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Pkzip, Pkunzip, Pkzipfix, Zip2exe es marca registrada de Pkware, Inc.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Rar, Rcvt es marca registrada de Eugene Roshel.}\par
+\page
+#{\footnote # MENU_ARCHIVO_TECLAS_RAPIDAS}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Acci\'F3n\tab \tab \tab Tecla}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 -----------------------------------------------------------------------------------------------------------------------------------}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Comprimir\tab \tab \tab CTRL+C}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Descomprimir\tab \tab \tab CTRL-D}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Convertir\tab \tab \tab CTRL+T}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Crear Exe\tab \tab \tab CTRL+X}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Listar\tab \tab \tab \tab CTRL+L}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Mover\tab \tab \tab \tab CTRL+M}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Reparar\tab \tab \tab CTRL+R}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Verificar\tab \tab \tab CTRL+V}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Borrar\tab \tab \tab \tab DEL}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Editar\tab \tab \tab \tab F2}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Imprimir\tab \tab \tab CTRL+P}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Informaci\'F3n\tab \tab \tab CTRL+I}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Ejecuci\'F3n directa\tab \tab CTRL+J}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 M\'F3dulo de instalaci\'F3n\tab \tab CTRL+U}\par
+\page
+#{\footnote # MENU_UTILITARIOS}
++{\footnote + 00001:010}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Men\'FA utilitarios.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 En este men\'FA Ud. encontrar\'E1 las siguientes opciones:}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Arjsort }{\v * MENU_UTILITARIOS_ARJSORT>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Rcvt}{\v * MENU_ARCHIVO_CONVERTIR>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Rearj}{\v * MENU_ARCHIVO_CONVERTIR>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\ul Teclas r\'E1pidas}{\v * MENU_UTILITARIOS_TECLAS_RAPIDAS}}\par
+\page
+#{\footnote # MENU_UTILITARIOS_ARJSORT}
+${\footnote $ Ordenaci\'F3n de archivos}
++{\footnote + 00038:003}
+K{\footnote K Ordenar archivos en archivo comprimido.;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Arjsort.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena los archivos que est\'E1n en el archivo comprimido. El orden puede ser el siguiente:}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Atributos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn los atributos que estos tengan. M\'E1s informaci\'F3n vea:}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb \tab Informaci\'F3n.}{\v * MENU_ARCHIVO_INFORMACION>Main}}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Crc (Ciclic Redundancy code)\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn el c\'F3digo de grabaci\'F3n de la unidad donde estos fueron grabados.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Hora/Fecha }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn la fecha y hora en la cual fueron creados.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Extensi\'F3n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn la extensi\'F3n que tengan.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nombre de archivo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn el nombre del archivo.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Radio de compresi\'F3n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn la longitud del archivo y cuanto se comprimio de este.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Path}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn el lugar desde donde fueron comprimidos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn la longitud en bytes que tengan los archivos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Hora}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ordena seg\'FAn la hora en la cual fueron creados.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Reversa}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Invierte el orden en el cual los archivos fueron comprimidos.}\par
+\page
+#{\footnote # MENU_UTILITARIOS_TECLAS_RAPIDAS}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Acci\'F3n\tab \tab \tab Tecla}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 -----------------------------------------------------------------------------------------------------------------------------------}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Arjsort\tab \tab \tab \tab F9}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Rcvt\tab \tab \tab \tab F11}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Rearj\tab \tab \tab \tab F12}\par
+\page
+#{\footnote # COMO_REGISTRARSE}
+${\footnote $ C\'F3mo registrarse}
++{\footnote + 00001:012}
+K{\footnote K Registrando su copia de Ready;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 C\'F3mo registrarse.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab WinReady es un software pensado para facilitar todo lo que se refiere a manejo de compresores. Este fue concebido para facilitar al usuario el aprenderse la serie de comandos que implica para realizar una cierta acci\'F3n. El trabajo que se realiza es largo y duro. Detr\'E1s de cada programa realizado el usuario no sabe todo lo que se tuvo que hacer para entregar un buen software. \line \tab Ud. puede evaluar este programa por un periodo de 30 d\'EDas. Si encuentra que le es \'FAtil entonces debe registrar su copia o si no removerlo de su computador.\tab \line \tab El precio al registrarse es muy inferior si Ud. compra cualquier otro software. Ese es el mejor estimulo que el programador puede recibir y Ud. dispondr\'E1 de la \'FAltima versi\'F3n y un manual detallado de cada comando, adem\'E1s de la poderosa opci\'F3n de M\'F3dulo de instalaci\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para registrar WinReady ...:}\par
+\pard\plain{\b\cf10\f3\fs36\li101\ql\ri101\sa20\sb20 {\uldb \{bml DISKS02.BMP\}}{\v }Ready Software}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Avda. Benozzo Gozolli # 5227 comuna de San Joaqu\'EDn Chile o al fono 5520818.\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Sugerencias, ideas, problemas hacerlas a la direcci\'F3n arriba mencionada.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Nota:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ready Software no es responsable por da\'F1os ocacionados por el uso de este software.}\par
+\page
+#{\footnote # MENSAJES}
++{\footnote + 00014:013}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Mensajes.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Comprimir, Descomprimir}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Arj}\par
+\pard\plain{\cf10\f3\fs20\li101\ql\ri101\sa20\sb20 \tab Insert diskette with next volume (n). Enter "Y" when ready :}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Retire el disquete que se encuentra en la unidad de disco flexible (A: B:,etc), e inserte uno nuevo. Despu\'E9s presione la letra "y" seguido de ENTER. Si presiona "q" y despu\'E9s ENTER finaliza la acci\'F3n.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Pkzip}\par
+\pard\plain{\cf10\f3\fs20\li101\ql\ri101\sa20\sb20 \tab Insert disk # n - Press a key when ready}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Retire el disquete que se encuentra en la unidad de disco flexible (A: B:,etc), e inserte uno nuevo. Despu\'E9s presione ENTER. Si esta descomprimiendo archivos inserte el \'FAltimo disquete.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Rar}\par
+\pard\plain{\cf10\f3\fs20\li101\ql\ri101\sa20\sb20 \tab Create next volume ? Yes/No/All}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Retire el disquete que se encuentra en la unidad de disco flexible (A: B:,etc), e inserte uno nuevo. Despu\'E9s presione ENTER.}\par
+\page
+#{\footnote # MENU_ARCHIVO_IMPRIMIR}
+${\footnote $ Imprimir archivos}
++{\footnote + 00007:013}
+K{\footnote K Imprimir archivos residentes en archivos comprimidos;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Imprimir.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Arj, Lha, Pak, Pkunzip}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Imprime archivos que se encuentran en archivos comprimidos.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para imprimir haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) Seleccione el archivo.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2) En el men\'FA Archivo elija Imprimir.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Seleccione los archivos a imprimir.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Archivo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El contenido de los archivos a imprimir son impresos hacia el archivo. Para revisar el contenido del archivo use cualquier editor de textos. }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Editar}{\v * MENU_ARCHIVO_EDITAR>Main}}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Impresora}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab El contenido de los archivos es dirigido hacia la impresora. Encienda la impresora y haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Posibles destinos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Si esta activado elija el directorio destino del archivo. }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Posibles destinos}{\v * COMPRIMIR_POSIBLES_DESTINOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos}{\v * METODOS_GENERALES>Main}}\par
+\page
+#{\footnote # MENU_EDICION_SELECCION_MULTIPLE}
+${\footnote $ Selecci\'F3n de archivos}
++{\footnote + 00018:016}
+K{\footnote K Seleccionando archivos de diferentes directorios;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Selecci\'F3n m\'FAltiple.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Comprimir}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Permite seleccionar archivos que se encuentran en diferentes directorios.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Para seleccionar archivos haga lo siguiente:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 1) En el men\'FA Edici\'F3n elija Selecci\'F3n m\'FAltiple}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 2)Seleccione el directorio donde se encuentran los archivos a agregar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 3) Elija los archivos.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Agregar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Agrega los archivos seleccionados.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Quitar}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Borra de la lista los archivos que se han agregado.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Agregar todos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Agrega todos los archivos del directorio en selecci\'F3n.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Quitar todos}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Quita todos los archivos que han sido agregados. No es necesario que seleccione todos los archivos y despu\'E9s hacer clic en este bot\'F3n.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 4) Haga clic en el bot\'F3n Aceptar.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Nota: Si ha seleccionado archivos en la pantalla principal aparecera la opci\'F3n "Restaurar lista" haga clic en ella si quiere hacer desaparecer la lista.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 Vea tambi\'E9n}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Selecci\'F3n de archivos.}{\v * METODOS_GENERALES>Main}}\par
+\page
+#{\footnote # METODOS_GENERALES}
++{\footnote + 00008:004}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 M\'E9todos generales de selecci\'F3n.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 Todas las acciones}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Si desea agregar \'F3 quitar archivos que no est\'E1n en forma continua(juntos):}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Presione la tecla CTRL (no la suelte) y haga clic en los archivos. Hecha su selecci\'F3n suelte la tecla CTRL.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Si desea agregar \'F3 quitar archivos que est\'E1n en forma continua(juntos):}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Mantenga presionado el bot\'F3n izquierdo del mouse y seleccione los archivos. Hecha la selecci\'F3n suelte el bot\'F3n izquierdo del mouse.}\par
+\page
+#{\footnote # QUE_ES_WINREADY}
++{\footnote + 00001:003}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Qu\'E9 es WinReady}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab  WinReady es un software desarrollado para facilitar todo lo que se refiere al manejo de programas compresores de archivos.\line \line Esto facilita al usuario el tener que aprenderse la serie de comandos y switches que implica el realizar determinadas acciones, y que son propias de cada programa.\line \line Todas las acciones y comandos son traducidas a acciones con el mouse o el teclado.\line \line  WinReady administra a los siguientes compresores:\line \line \tab arj.exe, lha.exe, pak.exe, (pkzip.exe, pkunzip, zip2exe) y rar.\line \tab \line  Adem\'E1s provee soporte para convertir archivos de un formato a otro con los programas:\line \line \tab    rcvt.exe (convierte archivos comprimidos a formato rar)\line \tab    rearj.exe (convierte archivos comprimidos a formato arj)\line \line Tambi\'E9n soporta la opci\'F3n de ordenar archivos con el programa:\line \line \tab    arjsort.com\line \line  Como \'FAltimo se ha incluido la opci\'F3n de reparar archivos como es el caso de :\line    \line   \tab  pkzipfix.exe (repara archivos zip)\line \tab   rar (repara archivos rar)\line \line Nota : El \'E9xito de la reparaci\'A2n de archivos depende de muchos factores.Trate por lo general de                          mantener sus archivos en buen estado.\line \line Para que WinReady funcione Ud. necesita tener cualquiera de los programas arriba mencionados ya sea en versi\'F3n SHAREWARE o registrada.WinReady fue probado con las siguientes versiones de los programas arriba mencionados::\line \line \tab    ARJ 2.50\line \tab    ARJSORT 2.21\line \tab    REARJ 2.25\line \tab    LHA 2.56\line \tab    PAK 2.51\line \tab    PKZIP, PKUNZIP, ZIP2EXE, PKZIPFIX 2.04g\line \tab    RAR 2.00\line \tab    RCVT 1.01}\par
+\page
+#{\footnote # COMO_TRABAJAR_TECLADO_Y_MOUSE}
++{\footnote + 00001:005}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 C\'F3mo trabajar con el teclado y el mouse.}\par
+\pard\plain{}
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Mouse}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Haga clic en las opciones con el bot\'F3n izquierdo del mouse.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Teclado}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Activar el men\'FA : Presione la tecla ALT}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Seleccionar opci\'F3n del men\'FA: Presione la letra subrayada o use las flechas (ARRIBA, ABAJO)\line \tab \tab \tab \tab             y resalte la opci\'F3n.\tab }\par
+\pard\plain{\li0\ri0\sa10\sb10{\uldb \ql\{bml CASILLA.BMP\}}{\v }}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Marcar/Desmarcar  una casilla : Presione la tecla ALT y despu\'E9s la letra subrayada. Tambi\'E9n puede moverse con la tecla TAB y apretar la barra espaciadora.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Avanzar entre las opciones : Use la tecla TAB.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Retroceder entre las opciones : Presione la tecla SHIFT y TAB.\tab \tab \tab \tab }\par
+\page
+#{\footnote # REGLAS_DOS}
+${\footnote $ Convenciones de MSDOS}
++{\footnote + 00001:006}
+K{\footnote K Reglas para la construcci\'F3n de un archivo;}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Reglas de DOS para los nombres de archivos y directorios.}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Un nombre de archivo debe ser de longitud desde 1 a 8 caracteres, seguido de un punto(.) y opcionalmente tener una extensi\'F3n desde 1 a 3 a caracteres.\line \line \tab Ejemplos de archivos:\line \tab \tab CARTAS\line \tab                 MEMO.E\line             \tab \tab WIN.CO\line \tab                 AUTOEXEC.BAT\line \line \tab    Hay ciertos caracteres que no se pueden usar al crear un nombre de archivo \'F3 directorios. Trate de crearlos con un nombre identificatorio y caracteres simples.}\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Path}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Es el lugar donde se encuentran los archivos. Esto debe seguir ciertas reglas como las               siguientes:\line \line Para separar un path de otro se usa el signo backslash (\\).\line    \line    \tab Ejemplo:  \line            \tab \tab WINDOWS\\SYSTEM \line            \tab \tab JUEGOS\\MK2\line            \tab \tab WINDOWS\\SYSTEM\\MSAPPS\line    \line \tab Los 2 primeros caracteres deben ser la letra de la unidad seguido de dos puntos (:).\line \line    \tab Ejemplo 1: Crear el archivo comprimido DOS.ARJ en el directorio DOS.\line \tab \tab C:\\DOS\\DOS.ARJ\line \tab Ejemplo 2: Crear el archivo comprimido DOS.ARJ en la unidad A:\line      \tab \tab  A:DOS.ARJ }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\page
+#{\footnote # PRUEBAS_REALIZADAS}
+${\footnote $ Ensayos previos}
++{\footnote + 00001:013}
+K{\footnote K Qu\'E9 usar para comprimir distintos tipos de archivos;}
+\pard\plain{\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas realizadas.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Ready software realizo las siguientes pruebas con archivos elegidos en forma aleatoria. Se realizaron las pruebas con los siguientes tipos de archivos:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Dibujos}{\v * PRUEBAS_REALIZADAS_DIBUJOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Texto}{\v * PRUEBAS_EFECTUADAS_TEXTOS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Bases de datos}{\v * PRUEBAS_EFECTUADAS_BASES>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Planillas de c\'E1lculo}{\v * PRUEBAS_EFECTUADAS_PLANILLAS>Main}}\par
+\pard\plain{\cf3\f3\fs20\li101\ql\ri101\sa20\sb20 {\uldb Programas}{\v * PRUEBAS_EFECTUADAS_PROGRAMAS>Main}}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Se realizaron las pruebas considerando el tiempo en que estos comprimian y el tama\'F1o del archivo obtenido. Se uso el m\'E9todo de m\'E1xima compresi\'F3n en cada compresor.}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Ranking resumen seg\'FAn tama\'F1o}\par
+\pard\plain{\cf10\f3\fs20\li101\ql\ri101\sa20\sb20 \tab DIBUJOS\tab TEXTOS\tab BASES\tab \tab PLANILLAS\tab PROGRAMAS\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 2\tab \tab 2\tab \tab 2\tab \tab 3\tab \tab 3}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1\tab \tab 4\tab \tab 4\tab \tab 2\tab \tab 4}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 5\tab \tab 5\tab \tab 5\tab \tab 5\tab \tab 5}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 3\tab \tab 3\tab \tab 1\tab \tab 4\tab \tab 2}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 4\tab \tab 1\tab \tab 3\tab \tab 1\tab \tab 1}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Ranking resumen seg\'FAn tiempo}\par
+\pard\plain{\cf10\f3\fs20\li101\ql\ri101\sa20\sb20 \tab DIBUJOS\tab TEXTOS\tab BASES\tab \tab PLANILLAS\tab PROGRAMAS}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 3\tab \tab 2\tab \tab 4\tab \tab 2\tab \tab 4}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1\tab \tab 4\tab \tab 3\tab \tab 3\tab \tab 3}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 2\tab \tab 3\tab \tab 2\tab \tab 5\tab \tab 2}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 3\tab \tab 1\tab \tab 1\tab \tab 1\tab \tab 1}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 5\tab \tab 5\tab \tab 5\tab \tab 5\tab \tab 5}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones finales}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Seleccione el compresor seg\'FAn el tipo de archivo a comprimir. Considere la cantidad de archivos y el tiempo seg\'FAn el ranking de arriba.}\par
+\page
+#{\footnote # PRUEBAS_REALIZADAS_DIBUJOS}
++{\footnote + 00059:003}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas efectuadas con archivos de dibujo.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 BMP, GIF, PCX, DIB}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para esta prueba se escogieron 17 archivos. Estos fueron los resultados:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab \tab Tama\'F1o \tab Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 1.211.620\tab 00:06:03}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1.210.447\tab 00:02:00}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 1.262.823\tab 00:02:27}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 1.212.045\tab 00:04:14}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 1.212.989\tab 00:06:53}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1.210.447}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 1.211.620}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 1.212.045}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 1.212.989}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 1.262.823}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 00:02:00}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 00:02:27}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 00:04:14}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 00:06:03}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 00:06:53}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab LHA demostro ser el mejor en cuanto al tama\'F1o del archivo obtenido y el tiempo ocupado en efectuar la compresi\'F3n.}\par
+\page
+#{\footnote # PRUEBAS_EFECTUADAS_TEXTOS}
++{\footnote + 00059:004}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas efectuadas con archivos de texto.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 TXT,BAS,PRG,DOC}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para esta prueba se escogieron 22 archivos. Estos fueron los resultados:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab Tama\'F1o \tab Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 104.614\tab \tab 00:00:08}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 107.521\tab \tab 00:00:13}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 115.037\tab \tab 00:00:09}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 104.696\tab \tab 00:00:06}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 95.542\tab \tab 00:00:17}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 95.542}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 104.614}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 104.696}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 107.521}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 115.037\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 00:00:06}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 00:00:08}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 00:00:09}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 00:00:13}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 00:00:17}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Rar demostro ser el mejor en cuanto al tama\'F1o del archivo obtenido, pero su tiempo resulto ser el mayor de todos. PKZIP en cambio muestra ser el m\'E1s r\'E1pido pero no tan efectivo como RAR.}\par
+\page
+#{\footnote # PRUEBAS_EFECTUADAS_BASES}
++{\footnote + 00059:005}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas efectuadas con bases de datos.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 DBF,RBF,RXD,DTF,WDB,DB}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para esta prueba se escogieron 16 archivos conteniendo un total de 2370 registros. Estos fueron los resultados:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab Tama\'F1o \tab Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 83.025\tab \tab 00:00:15}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 85.573\tab \tab 00:00:11}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 92.478\tab \tab 00:00:08}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 82.039\tab \tab 00:00:06}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 83.081\tab \tab 00:00:19}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 82.039}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 83.025}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 83.081}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 85.573}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 92.478}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 00:00:06}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 00:00:08}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 00:00:11}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 00:00:15}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 00:00:19}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab PKZIP demostr\'F3 ser el mejor en cuanto al tama\'F1o del archivo obtenido y el tiempo empleado en comprimir.}\par
+\page
+#{\footnote # PRUEBAS_EFECTUADAS_PLANILLAS}
++{\footnote + 00059:006}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas efectuadas con planillas de c\'E1lculo.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 WKS,WK1,WK3,WKT,WK9,WR1,XLS,WQ1}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para esta prueba se escogieron 64 archivos, el largo de cada planilla no excedi\'E1n las 200 filas y algunas incluian gr\'E1ficos. Estos fueron los resultados:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab Tama\'F1o\tab Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 944.035\tab \tab 00:00:32}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 942.773\tab \tab 00:00:39}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 953.979\tab \tab 00:00:44}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 946.170\tab \tab 00:00:29}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 931.687\tab \tab 00:00:44}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 931.687}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 942.773}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 944.035}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 946.170}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 953.979}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 00:00:29}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 00:00:32}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 00:00:39}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK/RAR\tab 00:00:44}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Rar demostr\'F3 ser el m\'E1s efectivo en cuanto al tama\'F1o del archivo obtenido, pero no as\'ED en el tiempo empleado para esto, ya que junto a PAK resultaron ser los \'FAltimos. En cambio PKZIP demostr\'F3 ser el m\'E1s r\'E1pido pero no as\'ED en el tama\'F1o del archivo obtenido.}\par
+\page
+#{\footnote # PRUEBAS_EFECTUADAS_PROGRAMAS}
++{\footnote + 00059:007}
+\pard\plain{\keepn\cf1\f3\fs36\li101\ql\ri101\sa20\sb20 Pruebas efectuadas con programas.}\par
+\pard\plain{\keepn\cf13\f3\fs20\li101\ql\ri101\sa20\sb20 EXE,COM,SYS,DLL,BAT}\par
+\pard\plain{}
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab Para esta prueba se escogieron 116 archivos. Estos fueron los resultados:}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 \tab \tab Tama\'F1o\tab Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 1.902.367\tab 00:02:52}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1.933.510\tab 00:02:46\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 2.067.732\tab 00:02:19}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 1.898.194\tab 00:01:59}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 1.808.372\tab 00:03:56}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tama\'F1o\tab }\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 1.808.372}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 1.898.194}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 1.902.367}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 1.933.510}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 2.067.732}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Tiempo}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PKZIP\tab \tab 00:01:59}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 PAK\tab \tab 00:02:19}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 LHA\tab \tab 00:02:46}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 ARJ\tab \tab 00:02:52}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 RAR\tab \tab 00:03:56}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 }\par
+\pard\plain{\b\cf1\f3\fs20\li101\ql\ri101\sa20\sb20 Conclusiones}\par
+\pard\plain{\cf1\f3\fs20\li100\ql\ri100\sa20\sb20 \tab RAR demostr\'F3 ser el mejor en cuanto al tama\'F1o del archivo obtenido, pero resulto ser el \'FAltimo en tiempo ocupado al comprimir. En cambio PKZIP demostr\'F3 ser el m\'E1s r\'E1pido en tiempo y ocupa el segundo lugar en tama\'F1o del archivo obtenido.}\par
+\page
+}

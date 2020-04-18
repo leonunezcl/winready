@@ -1,0 +1,69 @@
+Línea 19: la clase SSCheck del control Excluir no era una clase de control cargada.
+Línea 34: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 52: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 70: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 88: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 120: la clase SSCheck del control Posdes no era una clase de control cargada.
+Línea 135: la clase SSCheck del control Usar no era una clase de control cargada.
+Línea 176: la clase MListBox del control List1 no era una clase de control cargada.
+Línea 20: el nombre de la propiedad Caption de Excluir no es válido.
+Línea 31: el nombre de la propiedad Value de Excluir no es válido.
+Línea 35: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 36: el nombre de la propiedad Caption de btn no es válido.
+Línea 46: el nombre de la propiedad Outline de btn no es válido.
+Línea 47: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 53: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 54: el nombre de la propiedad Caption de btn no es válido.
+Línea 64: el nombre de la propiedad Outline de btn no es válido.
+Línea 65: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 71: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 72: el nombre de la propiedad Caption de btn no es válido.
+Línea 82: el nombre de la propiedad Outline de btn no es válido.
+Línea 83: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 89: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 90: el nombre de la propiedad Caption de btn no es válido.
+Línea 100: el nombre de la propiedad Outline de btn no es válido.
+Línea 101: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 121: el nombre de la propiedad Caption de Posdes no es válido.
+Línea 132: el nombre de la propiedad Value de Posdes no es válido.
+Línea 136: el nombre de la propiedad Caption de Usar no es válido.
+Línea 147: el nombre de la propiedad Value de Usar no es válido.
+Línea 177: el nombre de la propiedad AddItemHeight de List1 no es válido.
+Línea 178: el nombre de la propiedad Alignment de List1 no es válido.
+Línea 179: el nombre de la propiedad AllowFocusRect de List1 no es válido.
+Línea 180: el nombre de la propiedad AutoCheck de List1 no es válido.
+Línea 182: el nombre de la propiedad CheckColor de List1 no es válido.
+Línea 183: el nombre de la propiedad CheckStyle de List1 no es válido.
+Línea 184: el nombre de la propiedad DefPicture de List1 no es válido.
+Línea 185: el nombre de la propiedad DrawRegions de List1 no es válido.
+Línea 186: el nombre de la propiedad EnableVirtualMsgs de List1 no es válido.
+Línea 187: el nombre de la propiedad ExtendedSelect de List1 no es válido.
+Línea 188: el nombre de la propiedad FallColor de List1 no es válido.
+Línea 189: el nombre de la propiedad FindDirection de List1 no es válido.
+Línea 190: el nombre de la propiedad FindResult de List1 no es válido.
+Línea 197: el nombre de la propiedad GridColor de List1 no es válido.
+Línea 198: el nombre de la propiedad GridStyle de List1 no es válido.
+Línea 200: el nombre de la propiedad HiliteBackColor de List1 no es válido.
+Línea 201: el nombre de la propiedad HiliteForeColor de List1 no es válido.
+Línea 202: el nombre de la propiedad HorizontalGrids de List1 no es válido.
+Línea 203: el nombre de la propiedad ImageRegion de List1 no es válido.
+Línea 204: el nombre de la propiedad ImageType de List1 no es válido.
+Línea 205: el nombre de la propiedad ItemHeight de List1 no es válido.
+Línea 206: el nombre de la propiedad ItemWidth de List1 no es válido.
+Línea 208: el nombre de la propiedad ListBoxStyle de List1 no es válido.
+Línea 209: el nombre de la propiedad MaskingColor de List1 no es válido.
+Línea 210: el nombre de la propiedad MultiColumn de List1 no es válido.
+Línea 211: el nombre de la propiedad MultiSelect de List1 no es válido.
+Línea 212: el nombre de la propiedad NoIntegralHeight de List1 no es válido.
+Línea 213: el nombre de la propiedad OwnerCompare de List1 no es válido.
+Línea 214: el nombre de la propiedad OwnerDraw de List1 no es válido.
+Línea 215: el nombre de la propiedad RiseColor de List1 no es válido.
+Línea 216: el nombre de la propiedad SearchCompare de List1 no es válido.
+Línea 217: el nombre de la propiedad SelectMode de List1 no es válido.
+Línea 218: el nombre de la propiedad SortColumn de List1 no es válido.
+Línea 219: el nombre de la propiedad Sorted de List1 no es válido.
+Línea 220: el nombre de la propiedad SortOrder de List1 no es válido.
+Línea 221: el nombre de la propiedad StringCompare de List1 no es válido.
+Línea 224: el nombre de la propiedad Version de List1 no es válido.
+Línea 225: el nombre de la propiedad VerticalGrids de List1 no es válido.
+Línea 226: el nombre de la propiedad VirtualMsgZone de List1 no es válido.

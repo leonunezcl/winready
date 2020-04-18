@@ -1,0 +1,37 @@
+Línea 20: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 38: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 56: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 74: la clase SSFrame del control Frame3D1 no era una clase de control cargada.
+Línea 88: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 103: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 118: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 133: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 148: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 163: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 178: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 193: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 208: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 223: la clase SSOption del control Ordenar no era una clase de control cargada.
+Línea 21: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 22: el nombre de la propiedad Caption de btn no es válido.
+Línea 32: el nombre de la propiedad Outline de btn no es válido.
+Línea 33: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 39: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 40: el nombre de la propiedad Caption de btn no es válido.
+Línea 50: el nombre de la propiedad Outline de btn no es válido.
+Línea 51: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 57: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 58: el nombre de la propiedad Caption de btn no es válido.
+Línea 68: el nombre de la propiedad Outline de btn no es válido.
+Línea 69: el nombre de la propiedad RoundedCorners de btn no es válido.
+Línea 75: el nombre de la propiedad Caption de Frame3D1 no es válido.
+Línea 89: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 104: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 119: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 134: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 149: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 164: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 179: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 194: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 209: el nombre de la propiedad Caption de Ordenar no es válido.
+Línea 224: el nombre de la propiedad Caption de Ordenar no es válido.

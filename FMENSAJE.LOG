@@ -1,0 +1,3 @@
+Línea 19: la clase SSPanel del control Panel3D1 no era una clase de control cargada.
+Línea 21: el nombre de la propiedad Caption de Panel3D1 no es válido.
+Línea 31: el nombre de la propiedad ShadowColor de Panel3D1 no es válido.

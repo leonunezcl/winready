@@ -1,0 +1,55 @@
+-----------------------------------------------------------------
+WinReady(R) para Windows   Version 1.0  10-12-1996
+Copyright 1996-1996 Ready Software. Todos los derechos reservados
+Ready software 
+Avda Benozzo Gozolli # 5227 
+Comuna de San Joaqu¡n Chile
+Fono 5520818
+----------------------------------------------------------------- 
+Este disquete contiene la versi¢n SHAREWARE de WinReady para Windows.
+Esta versi¢n de WinReady esta distribuida en el archivo WREDY10.EXE.
+
+ESTE PRODUCTO ESTA DISTRIBUIDO COMO SHAREWARE. Ready Software NO
+ES RESPONSABLE POR EL DA¥O OCACIONADO POR EL USO DE ESTE SOFTWARE 
+SI NO ACEPTA ESTAS CONDICIONES ENTONCES NO DEBE INSTALAR ESTE SOFTWARE
+DE LO CONTRARIO LA PUEDE EVALUAR POR UN PERIODO DE 30 DIAS. SI AL 
+FINALIZAR ESTE PERIODO ENCUENTRA QUE LE ES UTIL ENTONCES DEBE REGISTRARSE
+DE LO CONTRARIO DEBE REMOVERLO DE SU COMPUTADOR.
+
+Si acepto la condici¢n de evaluar este software entonces haga lo sgte:
+-  Desde Windows active el administrador de programas seleccione
+   desde el men£ archivo la opci¢n "Ejecutar". Digite lo siguiente:
+   A:\WREADY10.EXE. D‚spues siga las instrucciones en pantalla.
+
+-  Desde Windows seleccione el grupo de programas principal, haga
+   doble clic en el icono "Administrador de archivos".
+   En el administrador de archivos haga clic en la unidad donde
+   se encuentra el disquete que contiene el archivo WREADY10.EXE
+   Haga doble clic en el archivo WREADY10.EXE.
+
+Archivos incluidos en esta versi¢n:
+-----------------------------------
+
+WREADY10.EXE
+------------
+  Este es el programa de instalaci¢n de WinReady(R) para Windows.
+
+  Los siguientes archivos son instalados a su computador:
+
+  ARCHIVO         DESCRIPCION
+  ---------------------------------------------------------------
+  WINREADY.EXE    WinReady 1.0 SHAREWARE
+  WINREADY.HLP    El archivo de ayuda de WinReady 1.0 SHAREWARE
+  VBRUN300.DLL    Requerido por el programa.
+  CTL3DV2.DLL     Requerido por el programa.
+  THREED.VBX      Requerido por el programa.
+  CMDIALOG.VBX    Requerido por el programa.
+  SPIN.VBX        Requerido por el programa.
+  MLIST.VBX       Requerido por el programa.
+  TOOLBARS.VBX    Requerido por el programa.
+  LEAME.TXT       Terminos para la utilizaci¢n de este software.
+  LICENCIA.TXT    T‚rminos de licencia de este software.
+  ORDENEMP.TXT    C¢mo ordenar su copia de WinReady para empresas.
+  ORDENHOG.TXT    C¢mo ordenar su copia de WinReady para el hogar.  
+  QUEVIENE.TXT    Que vendr  en futuras versiones de WinReady(R).
+

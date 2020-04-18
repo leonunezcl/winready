@@ -1,0 +1,22 @@
+Línea 21: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 38: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 55: la clase SSCommand del control btn no era una clase de control cargada.
+Línea 72: la clase SSFrame del control Frame3D no era una clase de control cargada.
+Línea 100: la clase SSCheck del control Otro no era una clase de control cargada.
+Línea 114: la clase SSOption del control Editor no era una clase de control cargada.
+Línea 128: la clase SSOption del control Block no era una clase de control cargada.
+Línea 143: la clase SSFrame del control Frame3D no era una clase de control cargada.
+Línea 22: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 23: el nombre de la propiedad Caption de btn no es válido.
+Línea 33: el nombre de la propiedad Outline de btn no es válido.
+Línea 39: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 40: el nombre de la propiedad Caption de btn no es válido.
+Línea 50: el nombre de la propiedad Outline de btn no es válido.
+Línea 56: el nombre de la propiedad BevelWidth de btn no es válido.
+Línea 57: el nombre de la propiedad Caption de btn no es válido.
+Línea 67: el nombre de la propiedad Outline de btn no es válido.
+Línea 73: el nombre de la propiedad Caption de Frame3D no es válido.
+Línea 101: el nombre de la propiedad Caption de Otro no es válido.
+Línea 115: el nombre de la propiedad Caption de Editor no es válido.
+Línea 129: el nombre de la propiedad Caption de Block no es válido.
+Línea 144: el nombre de la propiedad Caption de Frame3D no es válido.
