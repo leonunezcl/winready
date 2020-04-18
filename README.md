@@ -30,6 +30,13 @@ Hoy ya en pleno siglo 21 y despues de 24 años de haberlo escrito lo quiero comp
 # Archivos Necesarios
 Este proyecto al estar escrito en su origen en VB3 ocupa archivos VBX (los antecesores a las librerias ActiveX), pero aun asi se puede cargar en VB6 al dia de hoy.
 
+- CTL3DV2.DLL    
+- THREED.VBX     
+- CMDIALOG.VBX    
+- SPIN.VBX        
+- MLIST.VBX      
+- TOOLBARS.VBX    
+
 # Notas de los componentes ActiveX de Windows
 Si no tienes los componentes VBX que ocupa el proyecto los puedes bajar de internet y luego copiarlos al directorio SYSTEM de windows.
 
