@@ -1,4 +1,4 @@
-# winready
+# Programa
 WinReady - Administrador de compresores de archivos
 
 # Autor
